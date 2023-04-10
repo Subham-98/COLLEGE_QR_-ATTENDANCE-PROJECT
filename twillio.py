@@ -15,3 +15,4 @@ message = client.messages.create(
 )
 
 print(message.sid)
+print("Hello")
